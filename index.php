@@ -1,1 +1,1 @@
-<?php inlude_once("Paraguas.html") ?>
+<?php include_once("Paraguas.html") ?>
